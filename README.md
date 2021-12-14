@@ -10,4 +10,4 @@ https://note-taker-appmn.herokuapp.com/
 
 ## Screenshot
 
-![Screenshot](./assets/images/live_ss.png)
+![Screenshot](./public/assets/images/live_ss.png)
